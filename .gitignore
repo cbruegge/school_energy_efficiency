@@ -1,0 +1,12 @@
+*.bak/
+./data_census/data/gis*/
+*.txt
+*.xls*
+*.html
+*.csv
+*.dta
+*.tsd
+*.gdb
+*.dbf
+*.dta
+
